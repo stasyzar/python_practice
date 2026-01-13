@@ -1,0 +1,1 @@
+print("Zarovska Anastasia, IPZ-2026")
